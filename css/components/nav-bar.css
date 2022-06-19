@@ -34,18 +34,9 @@
     bottom: 15px;
 }
 
-.nav__update{
-    background-color: tomato;
+.nav__update-dot{
     width: 6px;
     height: 6px;
-    display: block;
-    border-radius: 3px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
-    position: absolute;
     left: 30px; 
     bottom: 30px;
 }

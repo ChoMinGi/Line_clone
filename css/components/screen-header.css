@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: var(--horizontal-space);
+    margin-bottom: 10px;
     padding-top: 40px
 }
 
@@ -17,4 +18,30 @@
 
 .friends-screen{
     padding: 0px var(--horizontal-space);
+}
+
+.chats__plus{
+    position: relative;
+}
+
+#chats__icon-plus{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px; 
+    bottom: 18px;
+}
+
+.finds__gear{
+    position: relative;
+    
+}
+
+.finds__gear-dot{
+    width: 5px;
+    height: 5px;
+    left: 4px;
+    bottom: 19px;
 }
